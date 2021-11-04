@@ -21,9 +21,9 @@ Project is created with:
 ## Setup
 
 1. Open `Dovizkurlari.sln` with Visual Studio.
-2. Create a database table like this 
-![Veritabanı Tablo Görünümü](https://user-images.githubusercontent.com/43846788/140271661-62428775-2566-481d-ba66-8f62c9e51989.png)
-3.Example TCMB XML data
-![TCMBkaynakKod](https://user-images.githubusercontent.com/43846788/140272171-3d70b3f2-26d8-4e26-8e12-ffce63278cd5.png)
+2. Create a database table like this <br/>
+![Veritabanı Tablo Görünümü](https://user-images.githubusercontent.com/43846788/140271661-62428775-2566-481d-ba66-8f62c9e51989.png) <br/>
+3.Example TCMB XML data <br/>
+![TCMBkaynakKod](https://user-images.githubusercontent.com/43846788/140272171-3d70b3f2-26d8-4e26-8e12-ffce63278cd5.png) <br/>
 4.You should <h1>Uncomment SaveSixMonthData for ONCE ! </h1>
 ![SaveSixMonth](https://user-images.githubusercontent.com/43846788/140272637-36db5e81-3afb-49f2-acbf-0e6ac9e112e1.png)
