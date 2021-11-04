@@ -1,4 +1,4 @@
-# ASP.NET MVC CurrencyProject
+# ASP.NET MVC Currency Project <br/>
 
 ![UygulamaGörüntüleri-1](https://user-images.githubusercontent.com/43846788/140274168-bc7936ab-c676-4aa1-a5f1-717fd499f6f7.png)
 
@@ -25,16 +25,26 @@ Project is created with:
 ## Setup
 
 1. Open `Dovizkurlari.sln` with Visual Studio. <br/>
+
 2. Create a database table like this <br/>
+ 
 ![Veritabanı Tablo Görünümü](https://user-images.githubusercontent.com/43846788/140271661-62428775-2566-481d-ba66-8f62c9e51989.png) <br/>
+
 3.Example TCMB XML data <br/>
+
 ![TCMBkaynakKod](https://user-images.githubusercontent.com/43846788/140272171-3d70b3f2-26d8-4e26-8e12-ffce63278cd5.png) <br/>
+
 4.Connect your SQL Server and Entity Framework <br/>
+
 5.You should  Uncomment SaveSixMonthData() for <strong>ONCE!</strong> After that you must comment it <strong>AGAIN!</strong>
+
 Because it's save to database last six month data just one time.When it's do that once, it doesn't need anymore. <br/>
+
 ![SaveSixMonth](https://user-images.githubusercontent.com/43846788/140272637-36db5e81-3afb-49f2-acbf-0e6ac9e112e1.png) <br/>
-5.Run project once, when it's data scraping job done stop the project and don't forget comment the SaveSixMonthData() function. <br/>
-6.Now project is ready!! <br/>
+
+6.Run project once, when it's data scraping job done stop the project and don't forget comment the SaveSixMonthData() function. <br/>
+
+7.Now project is ready!! <br/>
 
 ## Code Examples
 
