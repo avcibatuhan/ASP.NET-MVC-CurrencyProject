@@ -25,5 +25,8 @@ Project is created with:
 ![Veritabanı Tablo Görünümü](https://user-images.githubusercontent.com/43846788/140271661-62428775-2566-481d-ba66-8f62c9e51989.png) <br/>
 3.Example TCMB XML data <br/>
 ![TCMBkaynakKod](https://user-images.githubusercontent.com/43846788/140272171-3d70b3f2-26d8-4e26-8e12-ffce63278cd5.png) <br/>
-4.You should <h1>Uncomment SaveSixMonthData for ONCE ! </h1>
+4.You should  Uncomment SaveSixMonthData for <strong>ONCE!</strong> After that you must comment it <strong>AGAIN!</strong>
+Because its save last six month data just one time.When it's do that once, it doesn't need anymore.
 ![SaveSixMonth](https://user-images.githubusercontent.com/43846788/140272637-36db5e81-3afb-49f2-acbf-0e6ac9e112e1.png)
+5.Run project once, when it's data scraping job done stop the project and don't forget comment the SaveSixMonthData() function.
+6.Now project is ready!!
